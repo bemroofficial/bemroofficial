@@ -73,8 +73,6 @@
 
 # CONTACT ME
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 |  <a href="https://youtube.com/c/Bemro"><img src="https://telegra.ph/file/3aad97692e047d5230609.png" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Visit Website](#)**                                                                                |
